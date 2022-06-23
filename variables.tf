@@ -7,6 +7,7 @@ variable "content" {
 }
 
 variable "prefix" {
+  default = "abc"
      }
 
 variable "separator" {
